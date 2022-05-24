@@ -11,5 +11,8 @@ public class App
         System.out.println( "Hello World!" );
         System.out.println( "These changes made in gitstuff folder by y person" );
         System.out.println( "Hello World! new two changes made in gitdemo" );
+        
+        System.out.println( "These changes made in gitstuff folder by X person" );
+        System.out.println( "Hello World! new two changes made" );
     }
 }

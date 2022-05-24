@@ -9,5 +9,7 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
+        System.out.println( "These changes made in gitstuff folder by y person" );
+        System.out.println( "Hello World! new two changes made in gitdemo" );
     }
 }
